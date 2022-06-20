@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>6317487520000</ElapsedGameTime>
+  <ElapsedGameTime>6317489120000</ElapsedGameTime>
   <SessionName>memeworld2</SessionName>
   <SpectatorPosition>
     <Position x="57074.621628522167" y="54631.552364062409" z="79598.951669948146" />
@@ -19,7 +19,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2022-06-20T12:03:18.0320842+03:00</LastSaveTime>
+  <LastSaveTime>2022-06-20T13:02:48.1578859+03:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -42365,7 +42365,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Secret Inventors CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6005455+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.876235+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0175069+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42378,7 +42378,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Imperial Engineering CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6145086+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0175069+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42389,14 +42389,12 @@ Always remember. You will never be the same.</PrivateInfo>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855913</IdentityId>
       <DisplayName>Arbel arad</DisplayName>
-      <CharacterEntityId>142274601141043855</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.5777778" y="-0.0157535076" z="0.08169655" />
       <BlockLimitModifier>0</BlockLimitModifier>
       <LastLoginTime>2022-06-20T00:42:38.8467013+03:00</LastLoginTime>
-      <SavedCharacters>
-        <long>142274601141043855</long>
-      </SavedCharacters>
+      <SavedCharacters />
       <LastLogoutTime>2022-06-20T01:04:31.1470345+03:00</LastLogoutTime>
       <RespawnShips>
         <long>142871773021546597</long>
@@ -42415,7 +42413,7 @@ Always remember. You will never be the same.</PrivateInfo>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855914</IdentityId>
       <DisplayName>Master Yee</DisplayName>
-      <CharacterEntityId>82362647765118119</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.0999606848" z="0.0241255239" />
       <BlockLimitModifier>0</BlockLimitModifier>
@@ -42503,7 +42501,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>VOID</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6145086+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-05-04T16:05:44.3764181+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42516,7 +42514,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Wrecker</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6145086+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-05-04T16:05:44.4352601+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42529,7 +42527,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Sirius</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6145086+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-05-04T16:05:44.4352601+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42567,9 +42565,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6424049+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9181226+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-15153.748963091992</X>
@@ -42586,9 +42584,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6424049+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9191198+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14900.991581623533</X>
@@ -42605,9 +42603,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6374181+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.912163+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14678.249289738056</X>
@@ -42624,9 +42622,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6434021+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9191198+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14925.910462273887</X>
@@ -42641,7 +42639,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:55.4322232+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:44.9135903+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -42656,9 +42654,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6434021+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9191198+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14974.875042004378</X>
@@ -42688,7 +42686,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>The Great Tarantula</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6145086+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>0001-01-01T00:00:00</LastLogoutTime>
       <RespawnShips />
@@ -42720,7 +42718,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Miranda Survivors</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6154794+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.1597999+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42752,9 +42750,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6424049+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9191198+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14924.928997648467</X>
@@ -42769,7 +42767,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Thumbs</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6154794+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.1847339+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42784,9 +42782,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6424049+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9191198+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14903.416786847418</X>
@@ -42801,7 +42799,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Contractors</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6154794+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.1867286+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42816,9 +42814,9 @@ Always remember. You will never be the same.</PrivateInfo>
       <Model>Space_Wolf</Model>
       <ColorMask x="1" y="0" z="0" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6424049+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.9181226+03:00</LastLoginTime>
       <SavedCharacters />
-      <LastLogoutTime>2022-06-20T12:03:18.0390975+03:00</LastLogoutTime>
+      <LastLogoutTime>2022-06-20T13:02:48.185812+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-14646.893097732875</X>
@@ -42833,7 +42831,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>The Tribunal</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6154794+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8901971+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.1867286+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42846,7 +42844,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>The Chairman</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.1887227+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42859,7 +42857,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Exiled Engineer</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.1887227+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42872,7 +42870,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Supreme Excavators CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:00.9686389+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42885,7 +42883,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Divine Sappers CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0165097+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42898,7 +42896,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Independent Miners Guild CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0165097+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42911,7 +42909,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Supreme Miners Guild CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0165097+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42924,7 +42922,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Intergalactic Merchants CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0165097+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42937,7 +42935,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Enlightened Dwellers CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0165097+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42950,7 +42948,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Rogue Settlers CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0175069+03:00</LastLogoutTime>
       <RespawnShips />
@@ -42963,7 +42961,7 @@ Always remember. You will never be the same.</PrivateInfo>
       <DisplayName>Rogue Welders CEO</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2022-06-19T17:20:18.6164766+03:00</LastLoginTime>
+      <LastLoginTime>2022-06-20T12:06:04.8922169+03:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2022-04-30T19:04:01.0175069+03:00</LastLogoutTime>
       <RespawnShips />
@@ -43284,11 +43282,11 @@ Always remember. You will never be the same.</PrivateInfo>
         <Key>
           <ClientId>0</ClientId>
           <SerialId>39</SerialId>
-          <HashedId>14960901927003271807</HashedId>
+          <HashedId>15938681532877897627</HashedId>
         </Key>
         <Value>
           <DisplayName />
-          <IdentityId>144115188075855962</IdentityId>
+          <IdentityId>144115188075856005</IdentityId>
           <Connected>true</Connected>
           <ForceRealPlayer>false</ForceRealPlayer>
           <Toolbar>
@@ -43345,11 +43343,11 @@ Always remember. You will never be the same.</PrivateInfo>
         <Key>
           <ClientId>0</ClientId>
           <SerialId>39</SerialId>
-          <HashedId>15938681532877897627</HashedId>
+          <HashedId>14960901927003271807</HashedId>
         </Key>
         <Value>
           <DisplayName />
-          <IdentityId>144115188075856005</IdentityId>
+          <IdentityId>144115188075855962</IdentityId>
           <Connected>true</Connected>
           <ForceRealPlayer>false</ForceRealPlayer>
           <Toolbar>
@@ -44683,170 +44681,9 @@ Always remember. You will never be the same.</PrivateInfo>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
           <RemoteAdminSettings>1</RemoteAdminSettings>
           <PromoteLevel>Admin</PromoteLevel>
-          <BuildColorSlot>0</BuildColorSlot>
-          <IsWildlifeAgent>false</IsWildlifeAgent>
-        </Value>
-      </item>
-      <item>
-        <Key>
-          <ClientId>0</ClientId>
-          <SerialId>0</SerialId>
-          <HashedId>3813650768950114688</HashedId>
-        </Key>
-        <Value>
-          <DisplayName>azazu.zulu</DisplayName>
-          <IdentityId>144115188075856029</IdentityId>
-          <Connected>false</Connected>
-          <ForceRealPlayer>false</ForceRealPlayer>
-          <Toolbar>
-            <ToolbarType>Character</ToolbarType>
-            <SelectedSlot xsi:nil="true" />
-            <Slots>
-              <Slot>
-                <Index>0</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>1</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>2</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
-                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>3</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>4</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Assembler" Subtype="BasicAssembler" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>5</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Refinery" Subtype="Blast Furnace" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>6</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_WindTurbine" Subtype="LargeBlockWindTurbine" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>7</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>8</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_LandingGear" Subtype="LargeBlockLandingGear" />
-                </Data>
-              </Slot>
-            </Slots>
-            <SlotsGamepad />
-          </Toolbar>
-          <EntityCameraData />
-          <CreativeToolsEnabled>false</CreativeToolsEnabled>
-          <RemoteAdminSettings>0</RemoteAdminSettings>
-          <PromoteLevel>None</PromoteLevel>
           <BuildColorSlot>0</BuildColorSlot>
           <IsWildlifeAgent>false</IsWildlifeAgent>
         </Value>
@@ -45561,87 +45398,99 @@ Always remember. You will never be the same.</PrivateInfo>
               <Distance>2.9886261311144668</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
-            <CameraControllerSettings EntityId="142274601141043855">
-              <IsFirstPerson>true</IsFirstPerson>
-              <Distance>3.1355554104314871</Distance>
-              <HeadAngle x="-11.1518354" y="0" />
-            </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
           <RemoteAdminSettings>4</RemoteAdminSettings>
           <PromoteLevel>Owner</PromoteLevel>
+          <BuildColorSlot>0</BuildColorSlot>
+          <IsWildlifeAgent>false</IsWildlifeAgent>
+        </Value>
+      </item>
+      <item>
+        <Key>
+          <ClientId>0</ClientId>
+          <SerialId>0</SerialId>
+          <HashedId>3813650768950114688</HashedId>
+        </Key>
+        <Value>
+          <DisplayName>azazu.zulu</DisplayName>
+          <IdentityId>144115188075856029</IdentityId>
+          <Connected>false</Connected>
+          <ForceRealPlayer>false</ForceRealPlayer>
+          <Toolbar>
+            <ToolbarType>Character</ToolbarType>
+            <SelectedSlot xsi:nil="true" />
+            <Slots>
+              <Slot>
+                <Index>0</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="WelderItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>1</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinderItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>2</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemWeapon">
+                  <DefinitionId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrillItem" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>3</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>4</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Assembler" Subtype="BasicAssembler" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>5</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Refinery" Subtype="Blast Furnace" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>6</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_WindTurbine" Subtype="LargeBlockWindTurbine" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>7</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_SolarPanel" Subtype="LargeBlockSolarPanel" />
+                </Data>
+              </Slot>
+              <Slot>
+                <Index>8</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_LandingGear" Subtype="LargeBlockLandingGear" />
+                </Data>
+              </Slot>
+            </Slots>
+            <SlotsGamepad />
+          </Toolbar>
+          <EntityCameraData />
+          <CreativeToolsEnabled>false</CreativeToolsEnabled>
+          <RemoteAdminSettings>0</RemoteAdminSettings>
+          <PromoteLevel>None</PromoteLevel>
           <BuildColorSlot>0</BuildColorSlot>
           <IsWildlifeAgent>false</IsWildlifeAgent>
         </Value>
@@ -50875,17 +50724,17 @@ Always remember. You will never be the same.</PrivateInfo>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0" y="0" z="1" />
-      <SunDirectionNormalized x="-0.9990039" y="0" z="-0.04462528" />
+      <SunDirectionNormalized x="-0.999009252" y="0" z="-0.0445033275" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>3868533696819502467</PlanetId>
-          <NextWeather>112667</NextWeather>
+          <NextWeather>112657</NextWeather>
           <Weathers>
             <MyObjectBuilder_WeatherEffect>
               <Position>
-                <X>-39804.559688550638</X>
-                <Y>-32308.876716869858</Y>
-                <Z>-37987.57140713351</Z>
+                <X>-39802.192762223771</X>
+                <Y>-32312.225141879284</Y>
+                <Z>-37986.589908450987</Z>
               </Position>
               <Velocity>
                 <X>14.201557220724531</X>
@@ -50894,7 +50743,7 @@ Always remember. You will never be the same.</PrivateInfo>
               </Velocity>
               <Weather>SnowLight</Weather>
               <Radius>11788.9219</Radius>
-              <Life>14845</Life>
+              <Life>14855</Life>
               <MaxLife>55919</MaxLife>
               <Intensity>1</Intensity>
               <StartPoint>
@@ -50910,7 +50759,7 @@ Always remember. You will never be the same.</PrivateInfo>
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7227078719122709097</PlanetId>
-          <NextWeather>21860</NextWeather>
+          <NextWeather>21850</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
@@ -50920,27 +50769,27 @@ Always remember. You will never be the same.</PrivateInfo>
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7376538848170297803</PlanetId>
-          <NextWeather>111204</NextWeather>
+          <NextWeather>111194</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6409848419840584595</PlanetId>
-          <NextWeather>113320</NextWeather>
+          <NextWeather>113310</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-6999989728267602142</PlanetId>
-          <NextWeather>24236</NextWeather>
+          <NextWeather>24226</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6525117208432977790</PlanetId>
-          <NextWeather>82215</NextWeather>
+          <NextWeather>82205</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6902088205773520807</PlanetId>
-          <NextWeather>226640</NextWeather>
+          <NextWeather>226630</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
       </WeatherPlanetData>
@@ -83810,7 +83659,7 @@ Always remember. You will never be the same.</PrivateInfo>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>96866</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>97032</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
