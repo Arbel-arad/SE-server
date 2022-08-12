@@ -138,6 +138,11 @@
     <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Modular Encounters Systems">
+      <Name>1521905890.sbm</Name>
+      <PublishedFileId>1521905890</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Transparent LCD Panels Extended Pack(DLC Only)">
       <Name>1913557465.sbm</Name>
       <PublishedFileId>1913557465</PublishedFileId>
@@ -251,11 +256,6 @@
     <ModItem FriendlyName="Projector Preview - miniature blueprint display + damage status">
       <Name>517675282.sbm</Name>
       <PublishedFileId>517675282</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Modular Encounters Systems">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Cargo Fill Level LCDs">
