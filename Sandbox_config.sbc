@@ -114,7 +114,6 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
-    <SuppressedWarnings />
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>true</EnableSelectivePhysicsUpdates>
@@ -138,11 +137,6 @@
     <EnableTeamScoreCounters>true</EnableTeamScoreCounters>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Modular Encounters Systems">
-      <Name>1521905890.sbm</Name>
-      <PublishedFileId>1521905890</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Transparent LCD Panels Extended Pack(DLC Only)">
       <Name>1913557465.sbm</Name>
       <PublishedFileId>1913557465</PublishedFileId>
@@ -168,34 +162,14 @@
       <PublishedFileId>1289657379</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Wasteland Encounters V2 Continued">
-      <Name>2539299261.sbm</Name>
-      <PublishedFileId>2539299261</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="MES Wreckage">
-      <Name>2802625870.sbm</Name>
-      <PublishedFileId>2802625870</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Slope LCD Panels Redux">
       <Name>2206564401.sbm</Name>
       <PublishedFileId>2206564401</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="NPC Defense Shields Provider">
-      <Name>2043339470.sbm</Name>
-      <PublishedFileId>2043339470</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Button Panels Mod Pack DX-11(Updated)">
       <Name>960597257.sbm</Name>
       <PublishedFileId>960597257</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Abandoned Settlements [v2]">
-      <Name>2310821218.sbm</Name>
-      <PublishedFileId>2310821218</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="(THYA) Shield HUD Graphics Pack 1%">
@@ -206,46 +180,6 @@
     <ModItem FriendlyName="Defense Shields - v2.0(38)">
       <Name>1365616918.sbm</Name>
       <PublishedFileId>1365616918</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Reavers: Terror of the Verse">
-      <Name>525460808.sbm</Name>
-      <PublishedFileId>525460808</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Cargo Ships">
-      <Name>1902970975.sbm</Name>
-      <PublishedFileId>1902970975</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="NPC Weapon Upgrades">
-      <Name>1555044803.sbm</Name>
-      <PublishedFileId>1555044803</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Parallax Concepts (Formerly Surface Occupation)">
-      <Name>1135484957.sbm</Name>
-      <PublishedFileId>1135484957</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Imber Corporation (Formerly Air Traffic)">
-      <Name>973526550.sbm</Name>
-      <PublishedFileId>973526550</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Corruption PvE Combat">
-      <Name>914369510.sbm</Name>
-      <PublishedFileId>914369510</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Installations">
-      <Name>1464803311.sbm</Name>
-      <PublishedFileId>1464803311</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Assertive Bunkers">
-      <Name>1945915721.sbm</Name>
-      <PublishedFileId>1945915721</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
@@ -303,7 +237,13 @@
       <PublishedFileId>1965654081</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Definition Extension API">
+      <Name>2756894170.sbm</Name>
+      <PublishedFileId>2756894170</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>memeworld2</SessionName>
-  <LastSaveTime>2022-08-09T21:55:53.0414847+03:00</LastSaveTime>
+  <LastSaveTime>2022-08-13T01:18:48.3226258+03:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
